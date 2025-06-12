@@ -1,0 +1,192 @@
+[
+  {
+    "plant": "Pico Carrizo",
+    "address": "2274 Hwy 83 South",
+    "city": "Carrizo Springs",
+    "state": "TX",
+    "zip": "78834",
+    "phone": "(830) 876-2527",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico Mission",
+    "address": "401 N. Shary",
+    "city": "Mission",
+    "state": "TX",
+    "zip": "78572",
+    "phone": "(956) 519-0622",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico-Alvin",
+    "address": "3619 FM 2403",
+    "city": "Alvin",
+    "state": "TX",
+    "zip": "77511",
+    "phone": "(281) 585-0705",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico-Beaumont",
+    "address": "6315 TX-347",
+    "city": "Beaumont",
+    "state": "TX",
+    "zip": "77705",
+    "phone": "(409) 240-2122",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico-Bergheim",
+    "address": "843 TX 46",
+    "city": "Bergheim",
+    "state": "TX",
+    "zip": "78004",
+    "phone": "(830) 249-2416",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico-Caldwell",
+    "address": "2080 TX 21",
+    "city": "Caldwell",
+    "state": "TX",
+    "zip": "77836",
+    "phone": "(979) 272-9203",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico-Carlsbad",
+    "address": "4021 Irong Horse Drive",
+    "city": "Carlsbad",
+    "state": "NM",
+    "zip": "88220",
+    "phone": "(575) 200-1290",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico-Del Rio",
+    "address": "3821 Veterans Blvd",
+    "city": "Del Rio",
+    "state": "TX",
+    "zip": "78840",
+    "phone": "(830) 774-4139",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico-FTL",
+    "address": "350 NE 44th St",
+    "city": "Oakland Park",
+    "state": "FL",
+    "zip": "33334",
+    "phone": "(954) 566-3074",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico-Kenedy",
+    "address": "323 South Sunset Strip",
+    "city": "Kenedy",
+    "state": "TX",
+    "zip": "78119",
+    "phone": "(830) 583-2421",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico-Lago Vista",
+    "address": "8027 Bronco Ln",
+    "city": "Lago Vista",
+    "state": "TX",
+    "zip": "78645",
+    "phone": "(512) 580-5773",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico-MIA",
+    "address": "1060 SW 27th Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33135",
+    "phone": "(605) 643-1511",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico-Odessa",
+    "address": "701 W 1st St",
+    "city": "Odessa",
+    "state": "TX",
+    "zip": "79761",
+    "phone": "(432) 332-6821",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico-Roswell",
+    "address": "1306 E 2nd St",
+    "city": "Roswell",
+    "state": "NM",
+    "zip": "88201",
+    "phone": "(575) 622-7921",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico-Siler City",
+    "address": "95 Bonlee Rd",
+    "city": "Siler city",
+    "state": "NC",
+    "zip": "27344",
+    "phone": "(919) 837-2000",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico-Uvalde",
+    "address": "421 W Calera St",
+    "city": "Uvalde",
+    "state": "TX",
+    "zip": "78801",
+    "phone": "(830) 278-5681",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico-Weslaco",
+    "address": "809 S International Blvd",
+    "city": "Weslaco",
+    "state": "TX",
+    "zip": "78596",
+    "phone": "(956) 968-3154",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico-WPB",
+    "address": "2635 Electronics Way",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "zip": "33407",
+    "phone": "(561) 832-3092",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  },
+  {
+    "plant": "Pico-Yanceyville",
+    "address": "1629 Main St",
+    "city": "Yanceyville",
+    "state": "NC",
+    "zip": "27379",
+    "phone": "(336) 694-4111",
+    "web": https://www.picopropane.com,
+    "special_offer": ""
+  }
+]
